@@ -1,0 +1,9 @@
+{
+	"ip":"bungeegabut.pokus.cc",
+	"port": "13632",
+	"name": "Muhammad",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register matahari",
+	"login-cmd":"/login matahari"
+}
