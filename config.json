@@ -1,9 +1,9 @@
 {
-	"ip":"de1.hokus.me",
-	"port": "26450",
-	"name": "GundulMu",
+	"ip":"play.brownienetwork.xyz",
+	"port": "25565",
+	"name": "XyzGundul_",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
-	"register-cmd":"/register matahari",
-	"login-cmd":"/login matahari"
+	"register-cmd":"/register bapakmugundul",
+	"login-cmd":"/login bapakmugundul"
 }
