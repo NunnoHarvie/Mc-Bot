@@ -1,9 +1,9 @@
 {
-	"ip":"play.brownienetwork.xyz",
+	"ip":"<YourServerIp>",
 	"port": "25565",
-	"name": "XyzGundul_",
+	"name": "<BotName>",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
-	"register-cmd":"/register bapakmugundul",
-	"login-cmd":"/login bapakmugundul"
+	"register-cmd":"/register <BotPasswordForRegister>",
+	"login-cmd":"/login <BotPasswordForLogin>"
 }
